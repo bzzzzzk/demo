@@ -1,0 +1,169 @@
+.left{float:left;}
+.right{float:right;}
+.dib-wrap {font-size:0;}
+.dib-wrap .dib{
+	letter-spacing: normal;
+	word-spacing: normal;
+	vertical-align:top;
+}
+body {
+	font-size: 12px;
+	line-height: 100%;
+	background: #fefcfd;
+	font-family: "微软雅黑"
+}
+blockquote, body, code, dd, div, dl, dt, fieldset, form, h1, h2, h3, h4, h5, h6, input, legend, li, ol, p, pre, td, textarea, th, ul {
+	margin: 0;
+	padding: 0;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-size: 100%;
+	line-height: 100%;
+	font-weight: normal;
+}
+a {
+	text-decoration: none;
+	color: #000;
+}
+img {
+	display: block;
+}
+b,strong {
+	font-weight: normal;
+}
+input {
+	outline: none;
+	border: none 0;
+	padding: 0;
+}
+li {
+	list-style: none;
+	vertical-align: top;
+}
+.m_w {
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+.m_ws {
+	width: 725px;
+	margin: 0 auto;
+}
+.mony_hd {
+	width: 100%;
+	margin: 0 auto;
+	height: 536px;
+	background: url() center no-repeat #0AC8F8;
+}
+.m_h_cot {
+	height: auto;
+	position: relative;
+}
+.m_h_cot .help {
+	float: right;
+	margin-right:14px;
+	padding-top: 50px;
+	width: 86px;
+	height: 25px;	
+}
+.m_h_cot .help a {
+	font: 16px/25px '微软雅黑';	
+	width: 100%;
+	display: block;;
+	background:url() no-repeat 88% 55% #FEFCFD;
+	color: #0072a5;
+	border-radius: 10px;
+        padding-left:12px;
+}
+	.long {
+		width: 100%;
+		padding-top: 310px;	
+		background:url(../images/timg.png) no-repeat center;
+		background-size:cover;
+	}
+.long .l_active {
+	display: block;
+	width: 337px;
+	height: 58px;
+	margin-left:27%;
+	background:#ffe300;
+	border-radius: 44px;
+	float: left;
+}
+.long .l_active a {
+	font: 26px/58px '微软雅黑';
+	color: #ff6613;
+    padding-left:73px;
+}
+.long .l_sign {
+	display: block;
+	height: 44px;
+	float: right;
+	text-align: left;
+}
+.long .l_sign a {
+	font: 16px/44px '微软雅黑';
+	color: #fff;
+}
+.saul {
+	margin: 0 53px;
+}
+.saul .saul_l {
+	height: 125px;
+	float: left;
+}
+.saul .saul_l dl {
+	padding: 35px  10px 0 0px;
+}
+.saul .saul_l .saul_t {
+	width: 99px;
+	height: 92px;
+	float: left;
+}
+.saul .saul_l .saul_t img {
+        width:86px;
+        height:86px;
+        padding:4px 0 0 5px;
+}
+.saul .saul_l .saul_d {
+	width: 190px;
+	float: right;
+    margin-left: 5px;
+}
+.saul .saul_l .saul_d a {
+	width: 190px;
+	height: 46px;
+	display: block;
+	border-radius: 5px;
+	text-align: right;
+	margin-top: 2px;
+	border-top:solid #5dc7fe 2px;
+
+}
+.saul .saul_l .saul_d a b {
+	font: 16px/44px '微软雅黑';
+	font-weight: 100;
+	color: #fff;
+}
+.saul .saul_l .saul_d p {
+	font: 13px/40px '微软雅黑';
+	text-align: center;
+	color: #fff;
+}
+.pt {
+	margin-right: 10px;
+}
+.dd {
+	background: url(../images/ios-top1.png)no-repeat;
+	background-size:cover;
+
+}
+.dds {
+	background: url(../images/andriod-top1.png) no-repeat;
+	background-size:cover;
+}
+.dds  b{padding-right: 20px;
+}
+
+		
+	
